@@ -23,6 +23,4 @@ DerivedData
 .bundle
 
 Pods/
-*.xcodeproj
-*.xcworkspace
 SBTUITestTunnelServer.app/
